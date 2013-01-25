@@ -1,4 +1,4 @@
 spark
 =====
 
-Design Studio 3 Proejct
+Design Studio 3 Project
