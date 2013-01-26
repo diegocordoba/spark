@@ -1,0 +1,1087 @@
+TopenFrameworks
+v5
+r1
+cCheck dependencies
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050FE9B1500000000000024F0
+t1358863125
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c0000000050FE9B16000000000000058C
+t1358863126
+s1420
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050FE9B1600000000000170A4
+t1358863126
+s94372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050FE9B180000000000077DD8
+t1358863128
+s490968
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c0000000050FE4E22000000000001A480
+t1358843426
+s107648
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000050FE4D99000000000000BAA0
+t1358843289
+s47776
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050FE4D9D00000000003B0060
+t1358843293
+s3866720
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050FE4D9B00000000000069F0
+t1358843291
+s27120
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050FE4D9D0000000000100720
+t1358843293
+s1050400
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000050FE4D990000000000654D60
+t1358843289
+s6638944
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000050FE4DA0000000000000D4F0
+t1358843296
+s54512
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050FE4DAE000000000002DAF0
+t1358843310
+s187120
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050FE4F430000000000322E20
+t1358843715
+s3288608
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glut.h
+c0000000050A44BF00000000000005836
+t1352944624
+s22582
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworks/app/ofAppGlutWindow.h
+c0000000050A44BF00000000000000701
+t1352944624
+s1793
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworks/app/ofAppRunner.h
+c0000000050A44BF0000000000000075D
+t1352944624
+s1885
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworks/app/ofBaseApp.h
+c0000000050A44BF000000000000003A4
+t1352944624
+s932
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../glut/lib/osx/GLUT.framework/GLUT
+c0000000050A44BF00000000000093570
+t1352944624
+s603504
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp
+c0000000050A44BF00000000000001034
+t1352944624
+s4148
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofCamera.cpp
+c0000000050A44BF00000000000001476
+t1352944624
+s5238
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofEasyCam.cpp
+c0000000050A44BF00000000000001BBB
+t1352944624
+s7099
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.cpp
+c0000000050A44BF000000000000065EE
+t1352944624
+s26094
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofNode.cpp
+c0000000050A44BF0000000000000251E
+t1352944624
+s9502
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp
+c0000000050A44BF00000000000005247
+t1352944624
+s21063
+i"ofAppGlutWindow.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofUtils.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"ofConstants.h"
+i"glut.h"
+i"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glut.h"
+i<Carbon/Carbon.h>
+i<GL/glut.h>
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp
+c0000000050A44BF00000000000002704
+t1352944624
+s9988
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp
+c0000000050A44BF000000000000054CE
+t1352944624
+s21710
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp
+c0000000050A44BF00000000000004815
+t1352944624
+s18453
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.cpp
+c0000000050A44BF00000000000001C9E
+t1352944624
+s7326
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.h
+c0000000050A44BF00000000000001CB9
+t1352944624
+s7353
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofFbo.cpp
+c0000000050A44BF00000000000006D1F
+t1352944624
+s27935
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLRenderer.cpp
+c0000000050A44BF000000000000085AB
+t1352944624
+s34219
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofLight.cpp
+c0000000050A44BF00000000000002B80
+t1352944624
+s11136
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofMaterial.cpp
+c0000000050A44BF00000000000000963
+t1352944624
+s2403
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofShader.cpp
+c0000000050A44BF00000000000004686
+t1352944624
+s18054
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofTexture.cpp
+c0000000050A44BF00000000000008680
+t1352944624
+s34432
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVbo.cpp
+c0000000050A44BF00000000000003B04
+t1352944624
+s15108
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVboMesh.cpp
+c0000000050A44BF0000000000000112C
+t1352944624
+s4396
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp
+c0000000050A44BF0000000000000A0A2
+t1352944624
+s41122
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofCairoRenderer.cpp
+c0000000050A44BF000000000000081F4
+t1352944624
+s33268
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp
+c0000000050A44BF000000000000080E8
+t1352944624
+s33000
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.h
+c0000000050A44BF000000000000023BD
+t1352944624
+s9149
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp
+c0000000050A44BF00000000000008A2A
+t1352944624
+s35370
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPath.cpp
+c0000000050A44BF000000000000048FC
+t1352944624
+s18684
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.cpp
+c0000000050A44BF00000000000005AF4
+t1352944624
+s23284
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.cpp
+c0000000050A44BF00000000000005DCF
+t1352944624
+s24015
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTessellator.cpp
+c0000000050A44BF000000000000016E1
+t1352944624
+s5857
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+c0000000050A44BF00000000000006550
+t1352944624
+s25936
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.cpp
+c0000000050A44BF00000000000002356
+t1352944624
+s9046
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix3x3.cpp
+c0000000050A44BF00000000000001824
+t1352944624
+s6180
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.cpp
+c0000000050A44BF0000000000000AC90
+t1352944624
+s44176
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofQuaternion.cpp
+c0000000050A44BF000000000000024C4
+t1352944624
+s9412
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec2f.cpp
+c0000000050A44BF000000000000000C7
+t1352944624
+s199
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec4f.cpp
+c0000000050A44BF000000000000000E7
+t1352944624
+s231
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp
+c0000000050A44BF00000000000000021
+t1352944624
+s33
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofFmodSoundPlayer.cpp
+c0000000050A44BF000000000000027A2
+t1352944624
+s10146
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp
+c0000000050A44BF00000000000006720
+t1352944624
+s26400
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofRtAudioSoundStream.cpp
+c0000000050A44BF00000000000001C3D
+t1352944624
+s7229
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp
+c0000000050A44BF00000000000001355
+t1352944624
+s4949
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp
+c0000000050A44BF00000000000000FB6
+t1352944624
+s4022
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.cpp
+c0000000050A44BF000000000000014F2
+t1352944624
+s5362
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.cpp
+c0000000050A44BF0000000000000333A
+t1352944624
+s13114
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.cpp
+c0000000050A44BF00000000000000015
+t1352944624
+s21
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.cpp
+c0000000050A44BF000000000000056A1
+t1352944624
+s22177
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h
+c0000000050A44BF00000000000004003
+t1352944624
+s16387
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFileUtils.cpp
+c0000000050A44BF00000000000009FA9
+t1352944624
+s40873
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.cpp
+c0000000050A44BF00000000000001C07
+t1352944624
+s7175
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofSystemUtils.cpp
+c0000000050A44BF00000000000007050
+t1352944624
+s28752
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofThread.cpp
+c0000000050A44BF000000000000011BD
+t1352944624
+s4541
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.cpp
+c0000000050A44BF0000000000000169D
+t1352944624
+s5789
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp
+c0000000050A44BF00000000000004825
+t1352944624
+s18469
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h
+c0000000050A44BF000000000000015A6
+t1352944624
+s5542
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitGrabber.mm
+c0000000050A44BF0000000000000718F
+t1352944624
+s29071
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitMovieRenderer.m
+c0000000050A44BF0000000000000545F
+t1352944624
+s21599
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitPlayer.mm
+c0000000050A44BF00000000000003572
+t1352944624
+s13682
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp
+c0000000050A44BF00000000000002554
+t1352944624
+s9556
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimeGrabber.cpp
+c0000000050A44BF00000000000005BAC
+t1352944624
+s23468
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimePlayer.cpp
+c0000000050A44BF00000000000005DA1
+t1352944624
+s23969
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp
+c0000000050A44BF00000000000001DE0
+t1352944624
+s7648
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp
+c0000000050A44BF00000000000002A2B
+t1352944624
+s10795
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/of3dUtils.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofBaseSoundPlayer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofBaseTypes.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofCairoRenderer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofCamera.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofColor.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofEasyCam.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofEvents.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofFbo.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofFileUtils.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofFmodSoundPlayer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofGLRenderer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofImage.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofLight.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofLog.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMaterial.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMath.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMatrix3x3.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMatrix4x4.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMesh.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofNode.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofOpenALSoundPlayer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPath.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPixels.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPoint.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPolyline.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQTKitGrabber.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQTKitMovieRenderer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQTKitPlayer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQuaternion.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQuickTimeGrabber.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQuickTimePlayer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofRectangle.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofRtAudioSoundStream.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofShader.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSystemUtils.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofTessellator.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofTexture.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofThread.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofURLFileLoader.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofUtils.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVbo.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVboMesh.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVec2f.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVec4f.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o
+t2
+s0
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/openFrameworksDebug.LinkFileList
+c000000005103E83A0000000000002AE6
+t1359210554
+s10982
+
+N/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a
+t2
+s0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofCamera.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofEasyCam.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofNode.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofFbo.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLRenderer.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofLight.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofMaterial.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofShader.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofTexture.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVbo.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVboMesh.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofCairoRenderer.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPath.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTessellator.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix3x3.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofQuaternion.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec2f.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec4f.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofFmodSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofRtAudioSoundStream.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFileUtils.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofSystemUtils.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofThread.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitGrabber.mm
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitMovieRenderer.m
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitPlayer.mm
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimeGrabber.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimePlayer.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp
+r0
+
+CBuild AST from /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesaa8102ba1fb4b641^c49537ba1fb4b641^---0#1#0#--18"Check dependencies36"311603C1-5175-4C89-8E7C-FBEB478FAEC5-
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/of3dUtils.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380903354.228424
+e380903355.669018
+r1
+xCompileC
+x../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
+x/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Compile /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp08223bba1fb4b641^2b50abbb1fb4b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp0000000000000000^3753"CompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o ../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.8 -g -mssse3 -Wno-sign-conversion -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtAudio/include -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources/i386 -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources -F/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.d --serialize-diagnostics /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.dia -c /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp -o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o36"B0406AC8-0BE1-449E-B2D4-169CFF22F243-
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380903354.228433
+e380903355.925473
+r1
+xCompileC
+x../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
+x/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp71213bba1fb4b641^2afdecbb1fb4b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp0000000000000000^3729"CompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o ../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.8 -g -mssse3 -Wno-sign-conversion -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtAudio/include -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources/i386 -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources -F/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.d --serialize-diagnostics /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.dia -c /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp -o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o36"94D449CD-1CB2-4DDE-9D6C-A0F4B6C2E634-
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380903354.228451
+e380903356.129015
+r1
+xCompileC
+x../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.o
+x/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Compile /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp971c3bba1fb4b641^790621bc1fb4b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@175"file://localhost/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp0000000000000000^3737"CompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.o ../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.8 -g -mssse3 -Wno-sign-conversion -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtAudio/include -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources/i386 -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources -F/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.d --serialize-diagnostics /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.dia -c /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp -o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofArduino.o36"8E1AB490-E8B8-49B2-A793-7A272FF5AE1C-
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofBaseSoundPlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofBaseTypes.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofCairoRenderer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofCairoRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofCamera.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofColor.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofEasyCam.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofEvents.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofFbo.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofFileUtils.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFileUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofFmodSoundPlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofFmodSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofGLRenderer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofGraphics.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofImage.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofLight.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofLog.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofLog.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMaterial.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMath.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMatrix3x3.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMatrix4x4.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofMesh.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofNode.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofOpenALSoundPlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPath.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPixels.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPoint.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofPolyline.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQTKitGrabber.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitGrabber.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQTKitMovieRenderer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitMovieRenderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQTKitPlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQTKitPlayer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380903355.670342
+e380903356.818738
+r1
+xCompileC
+x../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o
+x/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp70cdadbb1fb4b641^4e9bd1bc1fb4b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp0000000000000000^3789"CompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o ../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.8 -g -mssse3 -Wno-sign-conversion -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtAudio/include -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources/i386 -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources -F/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.d --serialize-diagnostics /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.dia -c /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp -o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQtUtils-7805BED1DF6F668C.o36"81DD49C2-B657-4C5C-8593-8F8E00EC2B47-
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQuaternion.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofQuaternion.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQuickTimeGrabber.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimeGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofQuickTimePlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQuickTimePlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofRectangle.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofRtAudioSoundStream.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofRtAudioSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380903354.228721
+e380903355.616424
+r1
+xCompileC
+x../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.o
+x/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Compile /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp151b3bba1fb4b641^0edc9dbb1fb4b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@174"file://localhost/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp0000000000000000^3731"CompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.o ../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.8 -g -mssse3 -Wno-sign-conversion -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtAudio/include -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources/i386 -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources -F/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.d --serialize-diagnostics /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.dia -c /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp -o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSerial.o36"0A9D021E-2B9E-4FD9-A497-6F4FA3AD8DD9-
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofShader.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofSystemUtils.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofSystemUtils.cpp normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofTessellator.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofTexture.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofThread.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofThread.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofURLFileLoader.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofUtils.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVbo.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVboMesh.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVec2f.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec2f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVec4f.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec4f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380903355.926720
+e380903357.119404
+r1
+xCompileC
+x../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o
+x/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Compile /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp745cedbb1fb4b641^71921ebd1fb4b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@172"file://localhost/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp0000000000000000^3751"CompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o ../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.8 -g -mssse3 -Wno-sign-conversion -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtAudio/include -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources/i386 -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources -F/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.d --serialize-diagnostics /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.dia -c /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp -o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o36"7DCFF933-5241-4759-88AC-959C63329851-
+
+CCompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380903356.130308
+e380903357.321472
+r1
+xCompileC
+x../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o
+x/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Compile /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cppa37421bc1fb4b641^0d5052bd1fb4b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp0000000000000000^3745"CompileC ../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o ../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.8 -g -mssse3 -Wno-sign-conversion -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/openFrameworksDebug.hmap -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/cairo/include/cairo -I../../../../libs/rtAudio/include -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources/i386 -I/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/DerivedSources -F/Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.d --serialize-diagnostics /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.dia -c /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp -o /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/build/debug/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o36"05E7307E-1DFD-42F2-941B-14146689E546-
+
+CLibtool /Users/desireemelcer/Documents/spark/Libraries/of_v0073_osx_release/libs/openFrameworksCompiled/project/osx/../../lib/osx/openFrameworksDebug.a normal i386
+r0
+
