@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="_2RealKinectWrapper" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug - Static - Linux">
+				<Option output="../../bin/Debug/lib_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="../../obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++0x" />
+					<Add option="-g" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+					<Add option="-Dlinux" />
+					<Add directory="../../externalLibs/boost" />
+				</Compiler>
+			</Target>
+			<Target title="Debug - Shared - Linux">
+				<Option output="../../bin/Debug/_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../../bin/Debug" />
+				<Option object_output="../../obj/Debug/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++0x" />
+					<Add option="-g" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+				</Compiler>
+			</Target>
+			<Target title="Release - Static - Linux">
+				<Option output="../../bin/Release/lib_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="../../obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++0x" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Release - Shared - Linux">
+				<Option output="../../bin/Release/lib_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="../../obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++0x" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Debug - Static - MacOS">
+				<Option output="../../bin/Debug/lib_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="../../obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+					<Add directory="../../externalLibs/boost" />
+				</Compiler>
+			</Target>
+			<Target title="Debug - Shared - MacOS">
+				<Option output="../../bin/Debug/_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../../bin/Debug" />
+				<Option object_output="../../obj/Debug/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+				</Compiler>
+			</Target>
+			<Target title="Release - Static - MacOS">
+				<Option output="../../bin/Release/lib_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="../../obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Release - Shared - MacOS">
+				<Option output="../../bin/Release/lib_2RealKinectWrapper" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="../../obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DUNIX" />
+					<Add option="-DLINUX" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++0x" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-Dlinux" />
+			<Add directory="../../include" />
+			<Add directory="../../src" />
+			<Add directory="/usr/include/ni" />
+			<Add directory="../../externalLibs/boost" />
+		</Compiler>
+		<Linker>
+			<Add library="OpenNI" />
+		</Linker>
+		<Unit filename="../../include/_2RealImageSource.h" />
+		<Unit filename="../../include/_2RealKinect.h" />
+		<Unit filename="../../include/_2RealTypes.h" />
+		<Unit filename="../../include/_2RealVector2f.h" />
+		<Unit filename="../../src/I_2RealImplementation.h" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIColorGenerator.cpp" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIColorGenerator.h" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIDepthGenerator.cpp" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIDepthGenerator.h" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIDevice.cpp" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIDevice.h" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIGenerator.h" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIInfraredGenerator.cpp" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIInfraredGenerator.h" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIUserGenerator.cpp" />
+		<Unit filename="../../src/OpenNISpecific/OpenNIUserGenerator.h" />
+		<Unit filename="../../src/OpenNISpecific/_2RealImplementationOpenNI.hpp" />
+		<Unit filename="../../src/_2RealConfig.h" />
+		<Unit filename="../../src/_2RealKinect.cpp" />
+		<Unit filename="../../src/_2RealLogger.cpp" />
+		<Unit filename="../../src/_2RealLogger.h" />
+		<Unit filename="../../src/_2RealTrackedJoint.cpp" />
+		<Unit filename="../../src/_2RealTrackedJoint.h" />
+		<Unit filename="../../src/_2RealTrackedUser.cpp" />
+		<Unit filename="../../src/_2RealTrackedUser.h" />
+		<Unit filename="../../src/_2RealTypes.cpp" />
+		<Unit filename="../../src/_2RealUtility.h" />
+		<Unit filename="../../src/_2RealVector2f.cpp" />
+		<Unit filename="../../src/_2RealVersion.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

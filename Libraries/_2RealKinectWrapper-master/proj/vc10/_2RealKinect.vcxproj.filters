@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\src\WinSDKSpecific\WSDKDevice.cpp">
+      <Filter>_2RealKinectWrapper\MS Kinect SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\OpenNISpecific\OpenNIDevice.cpp">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\OpenNISpecific\OpenNIMotorController.cpp">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\_2RealKinect.cpp">
+      <Filter>_2RealKinectWrapper\Wrapper Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\_2RealLogger.cpp">
+      <Filter>_2RealKinectWrapper\Wrapper Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\_2RealTrackedJoint.cpp">
+      <Filter>_2RealKinectWrapper\Wrapper Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\_2RealTrackedUser.cpp">
+      <Filter>_2RealKinectWrapper\Wrapper Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\_2RealTypes.cpp">
+      <Filter>_2RealKinectWrapper\Wrapper Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\_2RealVector2f.cpp">
+      <Filter>_2RealKinectWrapper\Wrapper Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\WinSDKSpecific\WSDKDeviceConfiguration.cpp">
+      <Filter>_2RealKinectWrapper\MS Kinect SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\OpenNIDeviceConfiguration.cpp">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\_2RealKinect.h">
+      <Filter>API Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\_2RealTypes.h">
+      <Filter>API Interface\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\_2RealImageSource.h">
+      <Filter>API Interface\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\WinSDKSpecific\WSDKDevice.h">
+      <Filter>_2RealKinectWrapper\MS Kinect SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\WinSDKSpecific\_2RealImplementationWinSDK.hpp">
+      <Filter>_2RealKinectWrapper\MS Kinect SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\OpenNISpecific\OpenNIDevice.h">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\OpenNISpecific\OpenNIMotorController.h">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\OpenNISpecific\OpenNiUtils.hpp">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\OpenNISpecific\_2RealImplementationOpenNI.hpp">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\_2RealConfig.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\_2RealLogger.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\_2RealTrackedJoint.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\_2RealTrackedUser.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\_2RealUtility.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\_2RealVector2f.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\_2RealVersion.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\I_2RealImplementation.h">
+      <Filter>_2RealKinectWrapper\Wrapper Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\WinSDKSpecific\WSDKDeviceConfiguration.h">
+      <Filter>_2RealKinectWrapper\MS Kinect SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\OpenNIDeviceConfiguration.h">
+      <Filter>_2RealKinectWrapper\OpenNI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="API Interface">
+      <UniqueIdentifier>{efcae51d-c9fc-48bd-9681-aebede410ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Interface\Types">
+      <UniqueIdentifier>{1da9ba55-968a-413e-bdee-9f68cf728cc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_2RealKinectWrapper">
+      <UniqueIdentifier>{41e50f43-edbe-478b-9317-174e81c5950d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_2RealKinectWrapper\MS Kinect SDK">
+      <UniqueIdentifier>{78c9a8b2-3e73-485c-a07d-962b1299ba64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_2RealKinectWrapper\OpenNI">
+      <UniqueIdentifier>{baeb17d4-ca27-414e-a054-17e1f82d2de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_2RealKinectWrapper\Docs">
+      <UniqueIdentifier>{a8dfccc4-cf78-4bdf-a8c9-d3208b064298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_2RealKinectWrapper\Wrapper Source">
+      <UniqueIdentifier>{d32a40de-dfaa-4977-b42a-9ab694dc9d65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_2RealKinectWrapper\Wrapper Header">
+      <UniqueIdentifier>{3b560280-d9e0-4afc-bb48-382d03a0035e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\docs\readme.txt">
+      <Filter>_2RealKinectWrapper\Docs</Filter>
+    </None>
+    <None Include="..\..\docs\todo.txt">
+      <Filter>_2RealKinectWrapper\Docs</Filter>
+    </None>
+  </ItemGroup>
+</Project>
