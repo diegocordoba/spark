@@ -4,6 +4,7 @@
 #include "ofMain.h"
 #include "ofxAssimpModelLoader.h"
 #include "ofVboMesh.h"
+#include "squareAnimator.h"
 
 class testApp : public ofBaseApp{
 
@@ -35,6 +36,8 @@ class testApp : public ofBaseApp{
         ofMaterial material;
         ofTexture tex;
         ofLight	light;
+    
+        squareAnimator mySquare;
 };
 
 #endif

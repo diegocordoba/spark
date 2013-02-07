@@ -33,7 +33,7 @@ void ofx3DModelLoader::loadModel(string modelName, float scale){
         ofLog(OF_LOG_VERBOSE, "ofx3DModelLoader: Loading Model " + modelName);
 		model->loadModel( modelName.c_str(), scale);
 	}
-	
+    
 }
 
 //-------------------------------------------

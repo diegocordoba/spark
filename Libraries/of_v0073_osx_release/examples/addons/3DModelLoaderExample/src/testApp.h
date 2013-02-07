@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "ofx3DModelLoader.h"
+#include "ofxAssimpModelLoader.h"
 
 class testApp : public ofBaseApp{
 	
@@ -22,6 +23,7 @@ class testApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);		
 
 		ofx3DModelLoader squirrelModel;
+        ofxAssimpModelLoader model;
 		
 };
 	

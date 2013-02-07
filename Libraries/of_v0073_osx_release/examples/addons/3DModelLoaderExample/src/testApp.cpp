@@ -6,6 +6,9 @@ GLfloat lightOneColor[] = {0.99, 0.99, 0.99, 1.0};
 GLfloat lightTwoPosition[] = {-40.0, 40, 100.0, 0.0};
 GLfloat lightTwoColor[] = {0.99, 0.99, 0.99, 1.0};
 
+
+
+
 //--------------------------------------------------------------
 void testApp::setup(){	
 	ofBackground(255,255,255);
@@ -37,44 +40,42 @@ void testApp::setup(){
     squirrelModel.setRotation(1, 270, 0, 0, 1);
     squirrelModel.setScale(0.9, 0.9, 0.9);
     squirrelModel.setPosition(ofGetWidth()/2, ofGetHeight()/2, 0);
+    
+    model.loadModel("test.obj");
+    model.setRotation(0,90,0,1,0);
+    model.setScale(0.2, 0.2, 0.2);
+    model.setPosition(ofGetWidth()*2/6, (float)ofGetHeight() * 0.75 , 0);
+
+    
+    
+   
 
 }
 
 //--------------------------------------------------------------
 void testApp::update(){
-    squirrelModel.setRotation(1, 270 + ofGetElapsedTimef() * 60, 0, 0, 1);
+   squirrelModel.setRotation(1, 270 + ofGetElapsedTimef() * 60, 0, 0, 1);
 
 }
 
 //--------------------------------------------------------------
 void testApp::draw(){
-	
-	 //fake back wall
-    ofSetColor(20, 20, 20);
-    glBegin(GL_QUADS);
-        glVertex3f(0.0, ofGetHeight(), -600);
-        glVertex3f(ofGetWidth(), ofGetHeight(), -600);
-        glVertex3f(ofGetWidth(), 0, -600);
-        glVertex3f(0, 0, -600);
-    glEnd();
-
-    //fake wall
-    ofSetColor(50, 50, 50);
-    glBegin(GL_QUADS);
-        glVertex3f(0.0, ofGetHeight(), 0);
-        glVertex3f(ofGetWidth(), ofGetHeight(), 0);
-        glVertex3f(ofGetWidth(), ofGetHeight(), -600);
-        glVertex3f(0, ofGetHeight(), -600);
-    glEnd();
-
-    //lets tumble the world with the mouse
+    
+    
+    ofBackground(50, 50, 50, 0);
+    
+    
     glPushMatrix();
-
+        model.drawFaces();
+    glPopMatrix();
+    
+    
+    glPushMatrix();
         //draw in middle of the screen
         glTranslatef(ofGetWidth()/2,ofGetHeight()/2,0);
         //tumble according to mouse
-        glRotatef(-mouseY,1,0,0);
-        glRotatef(mouseX,0,1,0);
+         glRotatef(-mouseY,1,0,0);
+         glRotatef(mouseX,0,1,0);
         glTranslatef(-ofGetWidth()/2,-ofGetHeight()/2,0);
 
         ofSetColor(255, 255, 255, 255);
@@ -84,6 +85,8 @@ void testApp::draw(){
 
     ofSetHexColor(0x000000);
     ofDrawBitmapString("fps: "+ofToString(ofGetFrameRate(), 2), 10, 15);
+    
+
 
 }
 

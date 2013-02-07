@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "ofURLFileLoader.h"
+#include "ofxAssimpModelLoader.h"
 
 class testApp : public ofBaseApp{
 	public:
